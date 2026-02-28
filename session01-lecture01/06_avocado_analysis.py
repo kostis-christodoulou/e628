@@ -17,7 +17,9 @@ plt.rcParams["font.size"] = 11
 # --- DATA LOADING & CLEANING ---
 # We load and clean the data in a single pipeline for clarity and performance
 avocado = (
-    pd.read_csv("data/avocado.csv")
+    pd.read_csv(
+        "https://raw.githubusercontent.com/kostis-christodoulou/e628/main/data/avocado.csv"
+    )
     .assign(
         date=lambda d: pd.to_datetime(d["date"], dayfirst=True),
         type=lambda d: d["type"].astype("category"),
