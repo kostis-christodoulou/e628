@@ -27,7 +27,7 @@ dependencies = [
     "pandas>=2.3.1",
     "pandas-datareader>=0.10.0",
     "plotly>=6.3.0",
-    "pyjanitor==0.31.0",
+    "pyjanitor==0.28.1",
     "python-pptx>=1.0.2",
     "rapidfuzz>=3.14.3",
     "requests>=2.32.5",
@@ -46,9 +46,10 @@ dependencies = [
     "jupyterlab>=4.4.7",
     "jupyter>=1.1.1",
     "pytest>=8.4.1",
-    "setuptools<80.0.0",
+    "setuptools==70.3.0",
     "utils>=1.0.2",
     "polars-lts-cpu>=1.33.1",
+    "flask-caching>=2.3.1",
 ]
 
 [tool.uv]
