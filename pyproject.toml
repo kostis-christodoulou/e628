@@ -50,6 +50,8 @@ dependencies = [
     "utils>=1.0.2",
     "polars-lts-cpu>=1.33.1",
     "flask-caching>=2.3.1",
+    "google-cloud>=0.34.0",
+    "ipympl>=0.10.0",
 ]
 
 [tool.uv]

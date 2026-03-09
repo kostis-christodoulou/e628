@@ -23,6 +23,12 @@
 | nyc taxi duckdb maps | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session05-lecture05/03_nyc_taxi_duckdb_maps.ipynb) |
 | HW3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session05-lecture05/hw3-sql.ipynb) |
 
+### Session 7
+| Notebook | Link |
+|----------|------|
+| machine learning intro | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session07-lecture07/01_machine_learning.ipynb) |
+<!-- | HW4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session07-lecture07/hw4.ipynb) | -->
+
 ## Data
 
 All datasets are in the `data/` folder and can be loaded directly via URL:
