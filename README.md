@@ -10,9 +10,9 @@
 ### Week 2
 | Notebook | Link |
 |----------|------|
-| Student Scores Plots | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session03-lecture3/04_student_scores_plots.ipynb) |
-| UK Polls Scraping & Tidy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session03-lecture3/uk_polls_scraping%2Btidy.ipynb) |
-| HW2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session03-lecture3/HW2.ipynb) |
+| Student Scores Plots | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session03-lecture03/04_student_scores_plots.ipynb) |
+| UK Polls Scraping & Tidy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session03-lecture03/uk_polls_scraping%2Btidy.ipynb) |
+| HW2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session03-lecture03/HW2.ipynb) |
 
 
 ### Week 3
