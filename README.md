@@ -27,8 +27,15 @@
 | Notebook | Link |
 |----------|------|
 | machine learning intro | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session07-ML/01_machine_learning.ipynb) |
-| EDA: Card fraud, energy, CPI| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session07-ML/EDA-cardfraud-energy-CPI.ipynb) |
-| HW4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session07-ML/hw4.ipynb) |
+| Bechdel Test| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session07-ML/bechdel_test.ipynb) |
+| HW4-EDA: Card fraud, energy, CPI | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session07-ML/hw4.ipynb) |
+
+### Group Project
+| Notebook | Link |
+|----------|------|
+| Amsterdam AirBnB | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/group-project/airbnb/amsterdam_airbnb_analytics.ipynb) |
+<!-- | Bechdel Test| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session07-ML/bechdel_test.ipynb) |
+| HW4-EDA: Card fraud, energy, CPI | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session07-ML/HW4.ipynb) | -->
 
 ## Data
 
