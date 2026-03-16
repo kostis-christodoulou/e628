@@ -30,6 +30,12 @@
 | Bechdel Test| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session07-ML/bechdel_test.ipynb) |
 | HW4-EDA: Card fraud, energy, CPI | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session07-ML/hw4.ipynb) |
 
+### Week 5
+| Notebook | Link |
+|----------|------|
+| Forex data pipeline    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session09-ML templates,finance/01_forex_data_pipeline.ipynb) |
+| Quant Risk Management | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session09-ML templates,finance/02_quant_risk_management.ipynb) |
+
 ### Group Project
 | Notebook | Link |
 |----------|------|
